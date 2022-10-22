@@ -1,4 +1,4 @@
-# mvvm
+# CAMPUS FINDER APP IN FLUTTER
 
 A new Flutter project.
 
