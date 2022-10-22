@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "665726132834",
+    "project_id": "campus-finder-9b9e0",
+    "storage_bucket": "campus-finder-9b9e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665726132834:android:79e7e27f0e8aa14ac4673b",
+        "android_client_info": {
+          "package_name": "com.campusfinder.wasiqrai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665726132834-egn0qqdsr9nlgv7q3si657k41je2bau9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYYl7BpKj9udtMp1SJQvxOlA_dm4SzMrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665726132834-egn0qqdsr9nlgv7q3si657k41je2bau9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

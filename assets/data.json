@@ -1,0 +1,3199 @@
+{
+   "campuses": [
+      {
+         "name": "ABASYN UNIVERSITY",
+         "status": "Private",
+         "admission": "closed",
+         "fee" : 80000,
+         "city": "Peshawar",
+         "adress": "Peshawar Campus, Ring Road (Charsadda Link), Peshawar.",
+         "phone": "+92-91-258 2934",
+         "Email": " admissions@abasyn.edu.pk ",
+         "Fax": "+92 051 8438325 ",
+         "URL": " http://www.abasyn.edu.pk/"
+      },
+      {
+         "name": "Abbottabad University of Science and Technology (AUST)",
+         "status": "Public",
+         "admission": "closed",
+         "fee" : 85000,
+         "city": "Abbottabad",
+         "adress": "Captain Akaash Rabbani Shaheed Road, Tehsil Havelian, District Abbottabad, Khyber Pakhtunkhwa",
+         "phone": "+92 (992) 402 117",
+         "Email": " info@aust.edu.pk  ",
+         "Fax": " ",
+         "URL": "http://aust.edu.pk"
+      },
+      {
+         "name": "ABDUL WALI KHAN UNIVERSITY",
+         "status": "Public",
+         "admission": "closed",
+         "fee" : 70000,
+         "city": "Mardan",
+         "adress": "Garden Campus Toru Road, Mardan",
+         "phone": "+92-937-843356",
+         "Email": " ua-cdc@awkum.edu.pk",
+         "Fax": " ",
+         "URL": "http://www.awkum.edu.pk"
+      },
+      {
+         "name": "AIR UNIVERSITY",
+         "status": "Public",
+         "admission": "open",
+         "fee" : 150000,
+         "city": "Islamabad",
+         "adress": "Service Road E-9 / E-8, Islamabad, Pakistan، Islamabad 44000, Pakistan",
+         "phone": "+92-51-9262557-9",
+         "Email": " amjad@mail.au.edu.pk ",
+         "Fax": " 051-9260158 ",
+         "URL": "http://www.au.edu.pk/ "
+      },
+      {
+         "name": "AL-HAMD ISLAMIC UNIVERSITY",
+         "status": "Private",
+         "admission": "closed",
+         "fee" : 60000,
+         "city": "Quetta",
+         "adress": "Airport Road Quetta, Baleli Road, Quetta, Pakistan",
+         "phone": "+92-81-2301771-6",
+         "Email": "info@aiu.edu.pk ",
+         "Fax": " ",
+         "URL": "http://www.aiu.edu.pk"
+      },
+      {
+         "name": "ALI INSTITUTE OF EDUCATION",
+         "status": "Private",
+         "admission": "closed",
+         "fee" : 40000,
+         "city": "Lahore",
+         "adress": "Shahrah-e-Roomi (Ferozpur Road), Lahore 54000.",
+         "phone": "+92.423 588 2913",
+         "Email": "info@aie.edu.pk ",
+         "Fax": " ",
+         "URL": "http://www.aie.edu.pk/"
+      },
+      {
+         "name": "ALLAMA IQBAL OPEN UNIVERSITY",
+         "status": "Public",
+         "admission": "open",
+         "fee" : 20000,
+         "city": "Islamabad",
+         "adress": "Ashfaq Ahmed Road, H-8/2، Islamabad 44000, Pakistan",
+         "phone": "+92-51-111-112-468",
+         "Email": "support@aiou.edu.pk",
+         "Fax": "(042) 99260021 ",
+         "URL": " http://www.aiou.edu.pk"
+      },
+      {
+         "name": "BAHAUDDIN ZAKARIYA UNIVERSITY",
+         "status": "Public",
+         "admission": "closed",
+         "fee" : 100000,
+         "city": "Multan",
+         "adress": "Bosan Road,Multan 60000, Multan, Pakistan",
+         "phone": "+92-61-9210069 ",
+         "Email": " registrar@bzu.edu.pk ",
+         "Fax": "+92 61 9210069",
+         "URL": "http://www.bzu.edu.pk"
+      },
+      {
+         "name": "BAHRIA UNIVERSITY",
+         "status": "Public",
+         "admission": "open",
+         "fee" : 120000,
+         "city": "Islamabad",
+         "adress": "Sector E-8، Shangrilla Rd, Islamabad, Pakistan",
+         "phone": "+92-51-111-111-028",
+         "Email": "info@bahria.edu.pk ",
+         "Fax": "92-51-9260885 ",
+         "URL": "http://www.bahria.edu.pk/"
+      },
+      {
+         "name": "Balochistan University of Engineering & Technology",
+         "status": "Public",
+         "admission": "closed",
+         "fee" : 40000,
+         "city": "Khuzdar",
+         "adress": "Balochistan University of Engg & Technology (BUET), Khuzdar.",
+         "phone": "+92-848-412834",
+         "Email": "info@buetk.edu.pk ",
+         "Fax": "+92 848 413197",
+         "URL": "http://www.buetk.edu.pk"
+      },
+      {
+         "name": "BALOCHISTAN UNIVERSITY OF INFORMATION TECHNOLOGY & MANAGEMENT SCIENCES",
+         "status": "Public",
+         "admission": "closed",
+         "fee" : 45000,
+         "city": "Quetta",
+         "adress": "Balochistan University of Information Technology, Engineering and Management Sciences, Airport Road, Baleli, Quetta.",
+         "phone": "+92-81-2881042081",
+         "Email": "faisal.durrani@buitms.edu.pk",
+         "Fax": "+92 (81) 2880522",
+         "URL": " http://www.buitms.edu.pk"
+      },
+      {
+         "name": "BAQAI MEDICAL UNIVERSITY",
+         "status": "Private",
+         "admission": "open",
+         "fee" : 80000,
+         "city": "Karachi",
+         "adress": "51, Deh Tor, Gadap Road, Near Toll Plaza, Super Highway P.O Box No 2407, Karachi - 74600, Pakistan.",
+         "phone": "+92-21-34410-311",
+         "Email": "info@baqai.edu.pk",
+         "Fax": " (092-21)34410-317",
+         "URL": " http://www.baqai.edu.pk"
+      },
+      {
+         "name": "BEACONHOUSE NATIONAL UNIVERSITY",
+         "status": "Private",
+         "admission": "open",
+         "fee" : 190000,
+         "city": "Lahore",
+         "adress": "13 KM Raiwaind Road, Near Jati Umrah Road, Lahore 54400.",
+         "phone": "+92-42-38100156",
+         "Email": "info@bnu.edu.pk ",
+         "Fax": "(92) 42-5760254",
+         "URL": "http://www.bnu.edu.pk"
+      },
+      {
+         "name": "BENAZIR BHUTTO SHAHEED UNIVERSITY LYARI",
+         "status": "Public",
+         "admission": "open",
+         "fee" : 70000,
+         "city": "Karachi",
+         "adress": "Fakir Muhammad Dura Khan Road, Near “Kashti Chowk” Lyari, Karachi, Postal Code: 75660.",
+         "phone": "+92-21-32744020",
+         "Email": " info@bbsul.edu.pk",
+         "Fax": " ",
+         "URL": "http://www.bbsul.edu.pk"
+      },
+      {
+         "name": "CECOS UNIVERSITY OF INFORMATION TECHNOLOGY & EMERGING SCIENCES",
+         "status": "Private",
+         "admission": "open",
+         "fee" : 60000,
+         "city": "Peshawar",
+         "adress": "CECOS University, Phase 6, Sector F-5, Hayatabad, Peshawar.",
+         "phone": "+92-91-5864291",
+         "Email": " info@www.cecos.edu.pk",
+         "Fax": "(92) (091) 5860294",
+         "URL": "http://www.cecos.edu.pk"
+      },
+      {
+         "name": "COMSATS INSTITUTE OF INFORMATION TECHNOLOGY",
+         "status": "Public",
+         "admission": "closed",
+         "fee" : 148000,
+         "city": "Islamabad",
+         "adress": "Park Road, Tarlai Kalan,  Islamabad 45550, Pakistan",
+         "phone": "051-90495112",
+         "Email": "registrar@comsats.edu.pk",
+         "Fax": "051-9247006 ",
+         "URL": " https://www.comsats.edu.pk/"
+      },
+      {
+         "name": "CAPITAL UNIVERSITY OF SCIENCE & TECHNOLOGY",
+         "status": "Private",
+         "admission": "closed",
+         "fee" : 122000,
+         "city": "Islamabad",
+         "adress": "Capital University of Science & Technology  Islamabad Expressway,  Kahuta Road, Zone-V  Islamabad.",
+         "phone": "+92-51-2512800-1",
+         "Email": "registrar@cust.edu.pk ",
+         "Fax": " +92-51-4486705",
+         "URL": "http://www.cust.edu.pk/ "
+      },
+      {
+         "name": "CITY UNIVERSITY OF SCIENCE AND INFORMATION TECHNOLOGY",
+         "status": "Private",
+         "admission": "closed",
+         "fee" : 83000,
+         "city": "Peshawar",
+         "adress": "City University  Of Science and Information Technology Dalazak Road Peshawar, Pakistan.",
+         "phone": "+92-91-2609501-8",
+         "Email": "info@cusit.edu.pk ",
+         "Fax": "+92 91 2609500 ",
+         "URL": "http://www.cityuniversity.edu.pk"
+      },
+      {
+         "name": "COMMECS INSTITUTE OF BUSINESS & EMERGING SCIENCES",
+         "status": "Private",
+         "admission": "open",
+         "fee" : 98000,
+         "city": "Karachi",
+         "adress": "Plot No. 40-B, Block-6, PECHS, Karachi.",
+         "phone": "+92-21-34634104",
+         "Email": "info@commecsinstitute.edu.pk ",
+         "Fax": " 8110751",
+         "URL": "http://www.commecsinstitute.edu.pk"
+      },
+      {
+         "name": "DHA SUFFA UNIVERSITY",
+         "status": "Private",
+         "admission": "open",
+         "fee" : 75000,
+         "city": "Karachi",
+         "adress": "DG-78, Off Khayaban-e-Tufail, Ph-VII (Ext),DHA, Karachi-75500.",
+         "phone": "+92-21-35244875",
+         "Email": "info@dsu.edu.pk ",
+         "Fax": " 021-35244855",
+         "URL": " http://www.dsu.edu.pk"
+      },
+      {
+         "name":"GOVERNMENT COLLEGE FOR WOMEN UNIVERSITY, SIALKOT",
+         "status":"Public",
+         "admission": "open",
+         "fee" : 60000,
+         "city":"Sialkot",
+         "adress":"Kutchehry Road, Sialkot Pakistan",
+         "phone":"+92-52-925 0170",
+         "Email":" info@gcwus.edu.pk ",
+         "Fax":"052-9250168 ",
+         "URL":"http://www.gcwus.edu.pk/"
+      },
+      {
+         "name":"GOVERNMENT SADIQ COLLEGE WOMEN UNIVERSITY",
+         "status":"Public",
+         "admission": "closed",
+         "fee" : 40000,
+         "city":"Bahawalpur",
+         "adress":"Government Sadiq College Women University, Bahawalpur.",
+         "phone":"+92-62-2284803",
+         "Email":"info@gscwu.edu.pk ",
+         "Fax":"  ",
+         "URL":" https://www.gscwu.edu.pk/"
+      },
+      {
+         "name":"GREENWICH UNIVERSITY",
+         "status":"Private",
+         "admission": "open",
+         "fee" : 100000,
+         "city":"Karachi",
+         "adress":"DK-10, 38th Street, Darkshan, DHA, Phase 6, Karachi 75500.",
+         "phone":"(92)(21) 35840397/98",
+         "Email":"gu@greenwich.edu.pk",
+         "Fax":"(92)(21) 35851910 ",
+         "URL":"http://www.greenwich.edu.pk/"
+      },
+      {
+         "name":"HITEC UNIVERSITY",
+         "status":"Private",
+         "admission": "open",
+         "fee" : 90000,
+         "city":"Taxila",
+         "adress":"Museum Road, Taxila Cantt",
+         "phone":"+92-51-4908142",
+         "Email":"assistant.registrar@hitecuni.edu.pk ",
+         "Fax":"051-4908145",
+         "URL":"http://www.hitecuni.edu.pk"
+      },
+      {
+
+               "name" : "HABIB UNIVERSITY",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Karachi",
+
+               "adress" :"Habib University Foundation147, Block 7 & 8 Banglore Cooperative Housing SocietyTipu Sultan Road Karachi – 75350",
+
+               "phone" : "+92-21-111-042 242",
+
+               "Email": "aamir.siddiqui@habib.edu.pk", "Fax": " ", "URL": "http://www.habib.edu.pk"
+
+            },
+
+            {
+
+               "name" : "HAJVERY UNIVERSITY",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Lahore",
+
+               "adress" :"43-52 Industrial Area Gulberg III, Lahore.",
+
+               "phone" : "+92-42-35717130-1",
+
+               "Email": "registrar@hup.edu.pk", "Fax": "042-35755564 ", "URL": " http://www.hajvery.edu.pk"
+
+            },
+
+            {
+
+               "name" : "HAMDARD UNIVERSITY",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Karachi",
+
+               "adress" :"Madinat-al-Hikmah, Sharea Madinat al-Hikmah, Muhammad Bin Qasim Avenue, Karachi 74600.",
+
+               "phone" : "+92-21-36440030021",
+
+               "Email": "info@hamdard.edu.pk ", "Fax": " (92-21) 36440045", "URL": "http://www.hamdard.edu.pk"
+
+            },
+
+            {
+
+               "name" : "HAZARA UNIVERSITY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Mansehra",
+
+               "adress" :"DHODIAL MANSEHRA [NWFP]",
+
+               "phone" : "+92-997-530732",
+
+               "Email": "registrar@hu.edu.pk ", "Fax": " +92-997-530046", "URL": "http://www.hu.edu.pk"
+
+            },
+
+            {
+
+               "name" : "INDUS VALLEY SCHOOL OF ART & ARCHITECTURE",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Karachi",
+
+               "adress" :"Street 33, Block 2, Scheme-5, Clifton, Karachi.75600",
+
+               "phone" : "+92-21-111-111-487",
+
+               "Email": "info@ivs.edu.pk", "Fax": " ", "URL": " http://www.indusvalley.edu.pk"
+
+            },
+
+            {
+
+               "name" : "INDUS UNIVERSITY",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Karachi",
+
+               "adress" :"ST-2D, Block-17, Adjacent National Stadium Gulshan-e Iqbal, Opp: Mushriq Centre, Karachi.",
+
+               "phone" : "+92-21-34977457",
+
+               "Email": "admission.site@indus.edu.pk", "Fax": "(92-21) 34985320", "URL": " http://www.indus.edu.pk"
+
+            },
+
+            {
+
+               "name" : "INFORMATION TECHNOLOGY UNIVERSITY OF THE PUNJAB",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Lahore",
+
+               "adress" :"6th Floor, Arfa Software Technology Park, Ferozepur Road, Lahore",
+
+               "phone" : "+92-42-99232124",
+
+               "Email": "admission@itu.edu.pk", "Fax": " ", "URL": " http://www.itu.edu.pk"
+
+            },
+
+            {
+
+               "name" : "INSTITUTE OF BUSINESS & TECHNOLOGY",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Karachi",
+
+               "adress" :"Main Ibrahim Hydri Road, Korangi Creek, Karachi.",
+
+               "phone" : "+92-21-35120462",
+
+               "Email": "info@biztek.edu.pk", "Fax": "021-5092384 ", "URL": "http://www.biztek.edu.pk"
+
+            },
+
+            {
+
+               "name" : "INSTITUTE OF BUSINESS ADMINISTRATION",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Karachi",
+
+               "adress" :"Plot # 68 & 88 Garden / Kayani Shaheed Road, Karachi - 74400 Pakistan",
+
+               "phone" :"92-21-38104700",
+
+               "Email": "info@khi.iba.edu.pk", "Fax": "92-21-99261508", "URL": "http://www.iba.edu.pk"
+
+            },
+
+            {
+
+               "name" : "INSTITUTE OF BUSINESS MANAGEMENT",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Karachi",
+
+               "adress" :"Korangi Creek, Karachi-75190, Pakistan.",
+
+               "phone" :"(+92-21)3509-0961-67",
+
+               "Email": "mec@iobm.edu.pk", "Fax": "(+92-21)3509-0968", "URL": "http://www.iobm.edu.pk"
+
+            },
+
+            {
+
+               "name" : "INSTITUTE OF MANAGEMENT SCIENCES",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Peshawar",
+
+               "adress" :"I-A, Sector E-5, Phase-VII, Hayatabad, Peshawar.",
+
+               "phone" :" 091-9217408",
+
+               "Email": "info@imsciences.edu.pk", "Fax": "091-5861026,091-9217", "URL": "http://www.imsciences.edu.pk"
+
+            },
+
+            {
+
+               "name" : "INSTITUTE OF MANAGEMENT SCIENCES, Lahore",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Lahore",
+
+               "adress" :"23-E-III, Gulberg-III, 54660 Lahore, Pakistan",
+
+               "phone" : "+92-42-35751115-8",
+
+               "Email": "info@pakaims.edu.pk", "Fax": " ", "URL": "http://www.pakaims.edu.pk"
+
+            },
+
+            {
+
+               "name" : "INSTITUTE OF SOUTHERN PUNJAB",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Multan",
+
+               "adress" :"9-KM, Bosan Road, Multan, Pakistan",
+
+               "phone" : "+92-61-111-786-477",
+
+               "Email": "info@isp.edu.pk ", "Fax": "+92-61-6522166", "URL": "http://isp.edu.pk/"
+
+            },
+
+            {
+
+               "name" : "INSTITUTE OF SPACE TECHNOLOGY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Islamabad",
+
+               "adress" :"Institute of Space Technology , P.O. Box 2750 Islamabad 44000 , Pakistan",
+
+               "phone" : "+92-51-9075100",
+
+               "Email": "info@ist.edu.pk", "Fax": "+92-51-9273310", "URL": "http://www.ist.edu.pk/"
+
+            },
+
+            {
+
+               "name" : "INTERNATIONAL ISLAMIC UNIVERSITY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Islamabad",
+
+               "adress" :"Sector H-10، Islamabad 44000, Pakistan",
+
+               "phone" : "+92-51-9257988",
+
+               "Email": "khalidmraja@iiu.edu.pk", "Fax": " ", "URL": "http://www.iiu.edu.pk/"
+
+            },
+
+            {
+
+               "name" : "IQRA NATIONAL UNIVERSITY",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Peshawar",
+
+               "adress" :"Phase-II, Hayatabad Peshawa",
+
+               "phone" : "+92-91-5822 852091",
+
+               "Email": "info@inu.edu.pk", "Fax": "5822984", "URL": " http://www.inu.edu.pk"
+
+            },
+
+            {
+
+               "name" : "IQRA UNIVERSITY",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Karachi",
+
+               "adress" :"Defence View, Shaheed-e-Millat Road, (Ext), Karachi.",
+
+               "phone" : "+92-21-35310802",
+
+               "Email": "registrar@iqra.edu.pk", "Fax": " ", "URL": "http://www.iqra.edu.pk"
+
+            },
+
+            {
+
+               "name" : "ISLAMIA COLLEGE UNIVERSITY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Peshawar",
+
+               "adress" :"Jamrod Road, University Campus,Peshawar.",
+
+               "phone" : "+92-91-9216009",
+
+               "Email": "registrar@icp.edu.pk ", "Fax": "091-9222090", "URL": "http://www.icp.edu.pk"
+
+            },
+
+            {
+
+               "name" : "ISLAMIA UNIVERSITY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Bahawalpur",
+
+               "adress" :"The Islamia University of Bahawalpur  Pakistan.",
+
+               "phone" :"92 - 62 - 9250235 ",
+
+               "Email": "info@iub.edu.pk ", "Fax": " 92 - 62 - 9250335", "URL": "http://www.iub.edu.pk"
+
+            },
+
+            {
+
+               "name" : "ISRA UNIVERSITY",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Hyderabad",
+
+               "adress" :"Isra University, Hala Road, Hyderabad Sindh, Pakistan",
+
+               "phone" :"(92 22) 2030181-4",
+
+               "Email": "admissions@isra.edu.pk ", "Fax": "(92 22) 2030180 & 20", "URL": "http://www.isra.edu.pk"
+
+            },
+
+            {
+
+               "name" : "JINNAH SINDH MEDICAL UNIVERSITY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Karachi",
+
+               "adress" :"Rafique H.J Shaheed Road, Karachi.",
+
+               "phone" : "+92-21-99204776",
+
+               "Email": "admissions@jsmu.edu.pk", "Fax": "99201372", "URL": " http://www.jsmu.edu.pk"
+
+            },
+
+            {
+
+               "name" : "JINNAH UNIVERSITY FOR WOMEN",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Karachi",
+
+               "adress" :"Jinnah University for Women, 5-C, Nazimabad, Karachi 74600. ",
+
+               "phone" : "+92-21-36611245, +92-21-366199",
+
+               "Email": "  info@juw.edu.pk  ", "Fax": " (92-21) 6620614 ", "URL": " http://www.juw.edu.pk"
+
+            },
+
+            {
+
+               "name" : "KASB INSTITUTE OF TECHNOLOGY",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Karachi",
+
+               "adress" :"84-B, S.M.C.H.S, Off Shahrah-e-Faisal,  Karachi-74400, Pakistan. ",
+
+               "phone" : "+92-21-343 14970-3 ",
+
+               "Email": "  info@kasbit.edu.pk  ", "Fax": " 4525525 ", "URL": " http://www.kasbit.edu.pk"
+
+            },
+
+            {
+
+               "name" : "KARACHI INSTITUTE OF ECONOMICS & TECHNOLOGY",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Karachi",
+
+               "adress" :"PAF-KIET Main Campus Korangi Creek, Karachi 75190",
+
+               "phone" : "+92-21-35091114-7 ",
+
+               "Email": "  registrar@pafkiet.edu.pk  ", "Fax": " (9221) 35091118 ", "URL": " http://www.pafkiet.edu.pk"
+
+            },
+
+            {
+
+               "name" : "KARACHI SCHOOL FOR BUSINESS & LEADERSHIP",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Karachi",
+
+               "adress" :"National Stadium Road Opp. Liaquat National Hospital,Karachi – 74800. ",
+
+               "phone" : "+92-21-721021, +92-21-38771999",
+
+               "Email": "  info@ksbl.edu.pk  ", "Fax": " +92 (21) 38771999 ", "URL": " http://www.ksbl.edu.pk"
+
+            },
+
+            {
+
+               "name" : "KARAKURUM INTERNATIONAL UNIVERSITY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Gilgit",
+
+               "adress" :"Karakoram International University, Main Campus University Road Gilgit (15100) Pakistan",
+
+               "phone" : "+92-5811-960440 ",
+
+               "Email": "  info@kiu.edu.pk  ", "Fax": " 051-9266853 ", "URL": " http://www.kiu.edu.pk"
+
+            },
+
+            {
+
+               "name" : "KHAWAJA FREED UNIVERSITY OF ENGINEERING & INFORMATION TECHNOLOGY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Rahim Yar Khan",
+
+               "adress" :"Abu Dhabi Road, Rahim Yar Khan",
+
+               "phone" : "+92-68-9239121, +92-68-9239122",
+
+               "Email": "  info@kfueit.edu.pk  ", "Fax": " ", "URL": " http://www.kfueit.edu.pk/ "
+
+            },
+
+            {
+
+               "name" : "KHYBER MEDICAL UNIVERSITY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Peshawar",
+
+               "adress" :"PDA building Block-4 Phase-5 Hayatabad Peshawar ",
+
+               "phone" : "+92-91- 9217695 ",
+
+               "Email": "  info@kmu.edu.pk  ", "Fax": " +92919217704 ", "URL": " http://www.kmu.edu.pk"
+
+            },
+
+            {
+
+               "name" : "KHYBER PAKHTUNKHWA AGRICULTURAL UNIVERSITY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Peshawar",
+
+               "adress" :"KHYBER PAKHTUNKHWA AGRICULTURAL UNIVERSITY,University Campus, Peshawar",
+
+               "phone" : "+92-91-9216518091, +92--921657",
+
+               "Email": "  riazadil@aup.edu.pk  ", "Fax": " + 92 91 9221262 ", "URL": " http://www.aup.edu.pk"
+
+            },
+
+            {
+
+               "name" : "KING EDWARD MEDICAL UNIVERSITY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Lahore",
+
+               "adress" :"Nelagumbad near New Anarkali, Lahore. ",
+
+               "phone" : "+92-42-99211151, +92-42-373540",
+
+               "Email": "  info@kemu.edu.pk  ", "Fax": " ", "URL": " http://www.kemu.edu.pk"
+
+            },
+
+            {
+
+               "name" : "KINNAIRD COLLEGE FOR WOMEN",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Lahore",
+
+               "adress" :"Kinnaird College for Women 93- Jail Road, Lahore",
+
+               "phone" : "+92-42-99203781-4 ",
+
+               "Email": "  info@kinnaird.edu.pk  ", "Fax": " +92 42 9920 3788 ", "URL": " http://www.kinnaird.edu.pk"
+
+            },
+
+            {
+
+               "name" : "KOHAT UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Kohat",
+
+               "adress" :"Bannu Rd, Kohat 26000, Khyber Pakhtunkhwa. ",
+
+               "phone" : "+92-922-554578, +92-922-529147",
+
+               "Email": "  registrar@kust.edu.pk  ", "Fax": " ", "URL": " http://www.kust.edu.pk"
+
+            },
+
+            {
+
+               "name" : "LAHORE COLLEGE FOR WOMEN UNIVERSITY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Lahore",
+
+               "adress" :"Lahore College for Women University, Jail Road, Lahore.  ",
+
+               "phone" : "+92-42-99203088 ",
+
+               "Email": "  registrar@lcwu.edu.pk  ", "Fax": " +92-42-99203077 ", "URL": " http://www.lcwu.edu.pk"
+
+            },
+
+            {
+
+               "name" : "LAHORE GARRISON UNIVERSITY",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Lahore",
+
+               "adress" :"Main Campus, Sector C, DHA Phase-VI, Lahore. ",
+
+               "phone" : "+92-42-37181821-22 ",
+
+               "Email": "  info@lgu.edu.pk  ", "Fax": " 92 42 36603090 ", "URL": " http://lgu.edu.pk/ "
+
+            },
+
+            {
+
+               "name" : "LAHORE LEADS UNIVERSITY",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Lahore",
+
+               "adress" :"5-Tipu Block, New Garden Town, Lahore. ",
+
+               "phone" : "+92-42-35846330, +92-423584320",
+
+               "Email": "  admission@leads.edu.pk  ", "Fax": " ", "URL": " http://www.leads.edu.pk"
+
+            },
+
+            {
+
+               "name" : "LAHORE UNIVERSITY OF MANAGEMENT SCIENCES",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Lahore",
+
+               "adress" :"D.H.A, Lahore Cantt. 54792  Lahore, Pakistan. ",
+
+               "phone" : "+92 42 3560 8000",
+
+               "Email": "  mahjabeen.ahmad@lums.edu.pk  ", "Fax": " +92 42 3572 5048 ", "URL": " http://www.lums.edu.pk"
+
+            },
+
+            {
+
+               "name" : "LIAQUAT UNIVERSITY OF MEDICAL & HEALTH SCIENCES",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Jamshoro",
+
+               "adress" :"Liaquat University of Medical & Health Sciences Jamshoro, Sindh - Pakistan",
+
+               "phone" : "+92-22-9213305, +92-22-9213307",
+
+               "Email": "  registrar@lumhs.edu.pk  ", "Fax": " +92 22 9213306 ", "URL": " http://www.lumhs.edu.pk"
+
+            },
+
+            {
+
+               "name" : "MEHRAN UNIVERSITY OF ENGINEERING & TECHNOLOGY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Jamshoro",
+
+               "adress" :"Indus Highway, Jamshoro 76062, Pakistan. ",
+
+               "phone" : "+92 (22) 2772250-73",
+
+               "Email": "  registrar@admin.muet.edu.pk  ", "Fax": " +92 (22) 2772281  ", "URL": " http://www.muet.edu.pk"
+
+            },
+
+            {
+
+               "name" : "MINHAJ UNIVERSITY",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Lahore",
+
+               "adress" :"Near Hamdard Chowk, Township, Lahore.",
+
+               "phone" : "+92-42-351206800, +92-42-35145",
+
+               "Email": "  info@mul.edu.pk  ", "Fax": " 042-35116779 ", "URL": " http://www.mul.edu.pk"
+
+            },
+
+            {
+
+               "name" : "MIRPUR UNIVERSITY OF SCIENCE & TECHNOLOGY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Mirpur",
+
+               "adress" :"Mirpur University of Science and Technology (MUST), Admin Block, Allama Iqbal Road, Sector B-3, Mirpur. ",
+
+               "phone" : "+92-5827-961034 ",
+
+               "Email": "  info@must.edu.pk  ", "Fax": " +92-5827-961040 / 42 ", "URL": " http://www.must.edu.pk"
+
+            },
+
+            {
+
+               "name" : "MUHAMMAD ALI JINNAH UNIVERSITY",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Karachi",
+
+               "adress" :"22-E, Block-6, PECHS, Karachi 75400 ",
+
+               "phone" : "+92-21-111-87-87-87, +92-21-34",
+
+               "Email": "  info@jinnah.edu  ", "Fax": " +92-21-3431-1327 ", "URL": " http://www.jinnah.edu"
+
+            },
+
+            {
+
+               "name" : "MUHAMMAD NAWAZ SHAREEF UNIVERSITY OF AGRICULTURE",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Multan",
+
+               "adress" :"Old Shujaabad Road, Chungi No. 21, Sui Gas road, Multan",
+
+               "phone" : "+92-61-9201680  +92-61-9201711",
+
+               "Email": "  info@mnsuam.edu.pk  ", "Fax": " +92 (61) 920 1680 ", "URL": " http://www.mnsuam.edu.pk"
+
+            },
+
+            {
+
+               "name" : "MUHAMMAD NAWAZ SHARIF UNIVERSITY OF  ENGINEERING & TECHNOLOGY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Multan",
+
+               "adress" :"GCT, Old Bahwalpur Road, Multan. ",
+
+               "phone" : "+92-61-4482453",
+
+               "Email": "  info@mnsuet.edu.pk  ", "Fax": " ", "URL": " http://www.mnsuet.edu.pk/ "
+
+            },
+
+            {
+
+               "name" : "MUSLIM YOUTH UNIVERSITY",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Islamabad",
+
+               "adress" :"Muslim Youth University. PO Box 21177  G-10, subsector 4 (G-10/4) Islamabad ",
+
+               "phone" :" +92-51-8733217, +92-51-873321",
+
+               "Email": "  contact@myu.edu.pk  ", "Fax": " (051) 8733219 ", "URL": " http://myu.edu.pk/ "
+
+            },
+
+            {
+
+               "name" : "NED UNIVERSITY OF ENGINEERING & TECHNOLOGY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Karachi",
+
+               "adress" :"NED University of Engineering & Technology University Road, Karachi - 75270, Pakistan",
+
+               "phone" : "+92-21-99261253, +92-21-99261 ",
+
+               "Email": "  registrar@neduet.edu.pk  ", "Fax": " (92-21) 99261255 ", "URL": " http://www.neduet.edu.pk"
+
+            },
+
+            {
+
+               "name" : "NFC INSTITUTE OF ENGINEERING & TECHNOLOGY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Multan",
+
+               "adress" :"NFC Institute of Engineering and Technology, Opposite Pak Arab Fertilizers, Khanewal Road, Multan, Pakistan ",
+
+               "phone" : "+92-61-9220044, +92-61-9220012",
+
+               "Email": "  info@nfciet.edu.pk  ", "Fax": " + 92 61 9220018 ", "URL": " http://www.nfciet.edu.pk"
+
+            },
+
+            {
+
+               "name" : "NATIONAL COLLEGE OF ARTS",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Lahore",
+
+               "adress" :"4, Shahrah-E-Quaid-E-Azam, Lahore,Pakistan",
+
+               "phone" : "+92 42 99210599, 99210601 ",
+
+               "Email": "  info@nca.edu.pk  ", "Fax": " +92 42 99210500 ", "URL": " http://www.nca.edu.pk"
+
+            },
+
+            {
+
+               "name" : "NATIONAL COLLEGE OF BUSINESS ADMINISTRATION & ECONOMICS",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Lahore",
+
+               "adress" :"National College of Business Administration & Economics, 40-E1, Gulberg III, Lahore 54660, Pakistan",
+
+               "phone" : "+92 (42) 3575-2716, 19",
+
+               "Email": "  admission@ncbae.edu.pk  ", "Fax": " +92 (42) 3575-2547 ", "URL": " http://www.ncbae.edu.pk"
+
+            },
+
+            {
+
+               "name" : "NATIONAL DEFENSE UNIVERSITY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Islamabad",
+
+               "adress" :"Sector E-9, Islamabad ",
+
+               "phone" :"051-9262066-68",
+
+               "Email": "  gso1trg@ndu.edu.pk  ", "Fax": " ", "URL": " http://www.ndu.edu.pk/ "
+
+            },
+
+            {
+
+               "name" : "NATIONAL TEXTILE UNIVERSITY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Faisalabad",
+
+               "adress" :"National Textile University: Sheikhupura Road, Faisalabad 37610, Pakistan",
+
+               "phone" :"92 (041) 9230081-90",
+
+               "Email": "  info@ntu.edu.pk  ", "Fax": " 92 (041) 9230098 ", "URL": " http://www.ntu.edu.pk"
+
+            },
+
+            {
+
+               "name" : "NATIONAL UNIVERSITY OF COMPUTER & EMERGING SCIENCES (FAST)",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Islamabad",
+
+               "adress" :"A.K Brohi Road , Sector H-11/4, Islamabad. ",
+
+               "phone" : "+92-51-111 128 128, +92-51-831",
+
+               "Email": "  admissions@nu.edu.pk  ", "Fax": "  (051) 410 0619 ", "URL": " http://www.nu.edu.pk/ "
+
+            },
+
+            {
+
+               "name" : "NATIONAL UNIVERSITY OF MEDICAL SCIENCES",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Rawalpindi",
+
+               "adress" :"National University of Medical Sciences, The Mall, Rawalpindi, Pakistan.",
+
+               "phone" : "+92-51-9270677",
+
+               "Email": "  info@numspak.edu.pk  ", "Fax": " +92-51-9270677 ", "URL": " http://numspak.edu.pk/ "
+
+            },
+
+            {
+
+               "name" : "NATIONAL UNIVERSITY OF MODERN LANGUAGES (NUML)",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Islamabad",
+
+               "adress" :"National University of Modern Languages  H-9 Islamabad ,Pakistan. ",
+
+               "phone" : "+92-51-111-11-6878, +92-51-908",
+
+               "Email": "  info@numl.edu.pk  ", "Fax": " +92-51-9258655 ", "URL": " http://www.numl.edu.pk/ "
+
+            },
+
+            {
+
+               "name" : "NATIONAL UNIVERSITY OF SCIENCES & TECHNOLOGY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Islamabad",
+
+               "adress" :"National University of Sciences and Technology. NUST Campus, H-12, Islamabad, Pakistan. ",
+
+               "phone" :" +92-51-111-11-6878",
+
+               "Email": "  hrm@nust.edu.pk  ", "Fax": " 051-90851332 ", "URL": " http://www.nust.edu.pk/ "
+
+            },
+
+            {
+
+               "name" : "NAZEER HUSSAIN UNIVERSITY",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Karachi",
+
+               "adress" :"Address: ST-2 Block-4, Federal B Area Near Karimabad Karachi.",
+
+               "phone" : "+92-21- 3636 2046-54 ",
+
+               "Email": "  info@nhu.edu.pk  ", "Fax": " 92 21 36362045 ", "URL": " http://www.nhu.edu.pk/ "
+
+            },
+
+            {
+
+               "name" : "NEWPORT INSTITUTE OF COMMUNICATIONS & ECONOMICS",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Karachi",
+
+               "adress" :"40-L, PECHS Block-6, Karachi. ",
+
+               "phone" : "+9221-34541067, +9221-36671234",
+
+               "Email": "  info@newports.edu.pk  ", "Fax": " +92-21-4541089 ", "URL": " http://www.newports.edu.pk"
+
+            },
+
+            {
+
+               "name" : "NORTHERN UNIVERSITY NOWSHERA",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Nowshera",
+
+               "adress" :"The Northern University (Main Campus), Wattar Walai Ziarat, Kaka Sahib Road Nowshera, KPK, PK",
+
+               "phone" : "+92-923-613487, +92-923-613485",
+
+               "Email": "  info@northern.edu.pk  ", "Fax": " ", "URL": " http://www.northern.edu.pk"
+
+            },
+
+            {
+
+               "name" : "NUR INTERNATIONAL UNIVERSITY",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Lahore",
+
+               "adress" :"11/I-B, Model Town, Lahore – Pakistan",
+
+               "phone" : "+92-42-111555600, +92-42-37421",
+
+               "Email": "  info@niu.edu.pk  ", "Fax": " 042-37421993 ", "URL": " http://www.niu.edu.pk"
+
+            },
+
+            {
+
+               "name" : "PAKISTAN INSTITUTE OF DEVELOPMENT ECONOMICS (PIDE)",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Islamabad",
+
+               "adress" :"Pakistan Institute of Development Economics (PIDE),  Quaid-i-Azam University Campus,  P.O. Box. 1091, Islamabad,  44000, Pakistan. ",
+
+               "phone" : "+92-51-9248074  +92-51-9248065",
+
+               "Email": "  registrar@pide.org.pk  ", "Fax": " +92 51 9248065 ", "URL": " http://www.pide.org.pk/ "
+
+            },
+
+            {
+
+               "name" : "PAKISTAN INSTITUTE OF ENGINEERING & APPLIED SCIENCES",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Islamabad",
+
+               "adress" :"Nilore, Islamabad, Pakistan. ",
+
+               "phone" : "+92 51 1111 74327",
+
+               "Email": "  registrar@pieas.edu.pk  ", "Fax": " +92 51 924 8600 ", "URL": " http://www.pieas.edu.pk/ "
+
+            },
+
+            {
+
+               "name" : "PAKISTAN INSTITUTE OF FASHION & DESIGN",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Lahore",
+
+               "adress" :" 51-JIII Joher Town. Lahore , P.O.Box 542782 Pakistan",
+
+               "phone" :" 042-99232951-7",
+
+               "Email": "  info@pifd.edu.pk  ", "Fax": " 042-99232966 ", "URL": " http://www.pifd.edu.pk "
+
+            },
+
+            {
+
+               "name" : "PEOPLES UNIVERSITY OF MEDICAL & HEALTH SCIENCES FOR WOMEN",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Nawabshah",
+
+               "adress" :"Peoples University of Medical & Health Sciences for Women, Nawabshah 67480 (SBA). ",
+
+               "phone" : "+92-244-9370260",
+
+               "Email": "  registrar@pumhs.edu.pk  ", "Fax": " +92-244-9370261 ", "URL": " http://www.pumhs.edu.pk"
+
+            },
+
+            {
+
+               "name" : "PIR MEHR ALI SHAH ARID AGRICULTURE UNIVERSITY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Rawalpindi",
+
+               "adress" :"PMAS-Arid Agriculture University Rawalpindi,  Shamsabad, Muree Road Rawalpindi - Pakistan. ",
+
+               "phone" : "+92-51-9292104 ",
+
+               "Email": "  registrar@uaar.edu.pk  ", "Fax": " +92-051-9290459  ", "URL": " http://www.uaar.edu.pk"
+
+            },
+
+            {
+
+               "name" : "PRESTON UNIVERSITY",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Kohat",
+
+               "adress" :"Sector 10 Street 3 KDA Kohat, Kohat, Pakistan,  Islamabad Campus: Plot No 85, Street 3, Sector H-8/1,Islamabad. ",
+
+               "phone" : "+92-51-8491300",
+
+               "Email": "  kohat@preston.edu.pk  ", "Fax": " ", "URL": " http://www.preston.edu.pk"
+
+            },
+
+            {
+
+               "name" : "PRESTON UNIVERSITY",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Karachi",
+
+               "adress" :"Main Campus:15, Banglore Town, Shahrah-e-Faisal,Karachi. ",
+
+               "phone" : "+92-21-34398727",
+
+               "Email": "  karachi@preston.edu.pk  ", "Fax": " 021-34525881  ", "URL": " http://www.preston.edu.pk"
+
+            },
+
+            {
+
+               "name" : "QARSHI UNIVERSITY",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Lahore",
+
+               "adress" :"Qarshi University 8-Km Thokar Niaz baig, Canal Bank Road, Opposite lzmir Town, Lahore- Pakistan. 54000",
+
+               "phone" : "+92-42-37576946,+92-42-3742976",
+
+               "Email": "  info@qu.edu.pk  ", "Fax": " ", "URL": " http://www.qu.edu.pk"
+
+            },
+
+            {
+
+               "name" : "QUAID-E-AWAM UNIVERSITY OF ENGINEERING, SCIENCES & TECHNOLOGY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Nawabshah",
+
+               "adress" :"Quaid-e-Awam University Sakrand Road, Nawabshah, Sindh, Pakistan",
+
+               "phone" :"0244-9370381-5",
+
+               "Email": "  registrar@quest.edu.pk  ", "Fax": " 92-244-9370367, 9370 ", "URL": " http://www.quest.edu.pk "
+
+            },
+
+            {
+
+               "name" : "QUAID-I-AZAM UNIVERSITY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Islamabad",
+
+               "adress" :"Quaid-i-Azam University Islamabad, 45320, Pakistan. ",
+
+               "phone" : "+92-051-9064 0000 ",
+
+               "Email": "  info@qau.edu.pk  ", "Fax": " +92-51-90644110 ", "URL": " https://www.qau.edu.pk/ "
+
+            },
+
+            {
+
+               "name" : "QURTABA UNIVERSITY OF SCIENCE & INFORMATION TECHNOLOGY",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Dera Ismail Khan",
+
+               "adress" :"Sheikh Yusuf Road, Dera Ismail Khan, ",
+
+               "phone" : "+92 (966) - 714007/8",
+
+               "Email": "  dik@qurtuba.edu.pk  ", "Fax": " +92 (966) - 730047 ", "URL": " http://www.qurtuba.edu.pk"
+
+            },
+
+            {
+
+               "name" : "RIPHAH INTERNATIONAL UNIVERSITY",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Islamabad",
+
+               "adress" :"Sector I-14, Hajj Complex, Islamabad.",
+
+               "phone" : "+92 (51) 844 6000-7",
+
+               "Email": "  admissions@riphah.edu.pk  ", "Fax": " +92 (51) 831 3141 ", "URL": " https://www.riphah.edu.pk/ "
+
+            },
+
+            {
+
+               "name" : "SARDAR BAHADUR KHAN WOMEN UNIVERSITY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Quetta",
+
+               "adress" :"SBK Women's University, Brewery Road Quetta, Balochistan,Pakistan",
+
+               "phone" : "+92(081) 9213303",
+
+               "Email": "  vc@sbkwu.edu.pk  ", "Fax": " +92(081)9213308 ", "URL": " http://www.sbkwu.edu.pk"
+
+            },
+
+            {
+
+               "name" : "SARHAD UNIVERSITY OF SCIENCE & INFORMATION TECHNOLOGY",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Peshawar",
+
+               "adress" :"Sarhad University Landi Akhun Ahmad, Hayatabad Link. Ring Road, Peshawar, Pakistan",
+
+               "phone" : "+92-91-5230931",
+
+               "Email": "  registrar@suit.edu.pk  ", "Fax": " ", "URL": " http://www.suit.edu.pk "
+
+            },
+
+            {
+
+               "name" : "SHAH ABDUL LATIF UNIVERSITY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Khairpur",
+
+               "adress" :"Old National Highway, Khairpur Mir's, 66020 Sindh, Pakistan",
+
+               "phone" : "+92-243-9280061-62 ",
+
+               "Email": "  info@salu.edu.pk  ", "Fax": " 92-243-9280-060 ", "URL": " http://www.salu.edu.pk"
+
+            },
+
+            {
+
+               "name" : "SHAHEED BENAZIR BHUTTO CITY UNIVERSITY",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Karachi",
+
+               "adress" :"Plot F-201 1st floor & 2nd Floor, Near Site Philips Chowrangi, Labour Square, Site Police Station, Binoria Restaurant, Karachi. ",
+
+               "phone" : "+92-21-34242136, +92-21-342420",
+
+               "Email": "  info@sbbcu.edu.pk  ", "Fax": " ", "URL": " http://www.sbbcu.edu.pk"
+
+            },
+
+            {
+
+               "name" : "SHAHEED BENAZIR BHUTTO DEWAN UNIVERSITY",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Karachi",
+
+               "adress" :"Plot # 30-A/1, Sector 23, Korangi Industrial Area, Karachi, 74900-Pakistan.",
+
+               "phone" : "+92)- (021)-35115008-10, (021)",
+
+               "Email": "  info@sbbdewanuniversity.edu.pk  ", "Fax": " +92)-(021)-35115017 ", "URL": " http://www.sbbdewanuniversity.edu.pk/"
+
+            },
+
+            {
+
+               "name" : "SHAHEED BENAZIR BHUTTO UNIVERSITY OF VETERINARY & ANIMAL SCIENCES",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Nawabshah",
+
+               "adress" :"Main Nawabshah road, Sakrand, District Shaheed Benazirabad",
+
+               "phone" : "+92-244-322150 ",
+
+               "Email": "  info@sbbuvas.edu.pk  ", "Fax": " 0244 322151 ", "URL": " http://www.sbbuvas.edu.pk"
+
+            },
+
+            {
+
+               "name" : "SHAHEED BENAZIR BHUTTO UNIVERSITY, SHAHEED BENAZIRABAD",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Nawabshah",
+
+               "adress" :"SHAHEED BENAZIR BHUTTO UNIVERSITY, SHAHEED BENAZIRABAD, Pakistan 67450",
+
+               "phone" : "+92-244-9370520, +92-244-93705",
+
+               "Email": "  info@sbbusba.edu.pk  ", "Fax": " +92-244-9370521  ", "URL": " http://www.sbbusba.edu.pk/"
+
+            },
+
+            {
+
+               "name" : "SHAHEED BENAZIR BHUTTO WOMEN UNIVERSITY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Peshawar",
+
+               "adress" :"Shaheed Benazir Bhutto Women University, Opposite Fort Balahisar near LRH, Peshawar Pakistan.",
+
+               "phone" : "+92-91-9212422, +92-91-922 477",
+
+               "Email": "  info@sbbwu.edu.pk  ", "Fax": " +92-91-9224707 ", "URL": " http://www.sbbwu.edu.pk"
+
+            },
+
+            {
+
+               "name" : "SHAHEED MOHTARMA BENAZIR BHUTTO MEDICAL UNIVERSITY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Larkana",
+
+               "adress" :"Shaheed Mohtarma Benazir Bhutto Medical University Larkana, Sindh, Pakistan",
+
+               "phone" : "+92-74-9410724, +92-74-9410908",
+
+               "Email": "  registrar@smbbmu.edu.pk  ", "Fax": " +92-74-9410910, +92- ", "URL": " http://www.smbbmu.edu.pk"
+
+            },
+
+            {
+
+               "name" : "SHAHEED ZULFIKAR ALI BHUTTO INSTITUTE OF SCIENCE & TECHNOLOGY",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Karachi",
+
+               "adress" :"SZABIST 90 and 100 Clifton, Karachi 75600, Pakistan",
+
+               "phone" :"(92-21) 111-922-478",
+
+               "Email": "  info@szabist.edu.pk  ", "Fax": "  (92-21) 35830446 ", "URL": " http://www.szabist.edu.pk"
+
+            },
+
+            {
+
+               "name" : "SHAHEED ZULFIQAR ALI BHUTTO MEDICAL UNIVERSITY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Islamabad",
+
+               "adress" :"Shaheed Zulfiqar Ali Bhutto Medical University (SZABMU), PIMS, G-8/3, Islamabad, 44000",
+
+               "phone" :"(92) (51) (9107) 687",
+
+               "Email": "  info@szabmu.edu.pk  ", "Fax": " (92) (51) (9107) 687 ", "URL": " http://www.szabmu.edu.pk/"
+
+            },
+
+            {
+
+               "name" : "SHAHEED ZULFIQAR ALI BHUTTO UNIVERSITY OF LAW",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Karachi",
+
+               "adress" :"Chaudry Khaliq-uz-Zaman Road, Near Lilly Bridge, Clifton, Karachi. ",
+
+               "phone" : "+92-21-99206452-53 ",
+
+               "Email": "  info@szabul.edu.pk  ", "Fax": " 021-99206425 ", "URL": " http://www.szabul.edu.pk "
+
+            },
+
+            {
+
+               "name" : "SHIFA TAMEER-E-MILLAT UNIVERSITY",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Islamabad",
+
+               "adress" :"Shifa Tameer-e-Millat University  Pitras Bukhari Road, H-8/4  Islamabad 44000 Pakistan ",
+
+               "phone" : "+92-51-8464214, +92-51-8464215",
+
+               "Email": "  info@stmu.edu.pk  ", "Fax": " +92-51-486-3264 ", "URL": " http://www.stmu.edu.pk/ "
+
+            },
+
+            {
+
+               "name" : "UNIVERSITY OF TECHNOLOGY (SHUHADA-E-ARMY PUBLIC SCHOOL)",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Nowshera",
+
+               "adress" :"Ex-Adamjee Paper and Board Mills, Amangarh, Nowshera. 24100 ",
+
+               "phone" :"0923-560301",
+
+               "Email": "  samibangash@uotnowshera.edu.pk  ", "Fax": " ", "URL": " http://uotnowshera.edu.pk/ "
+
+            },
+
+            {
+
+               "name" : "SINDH AGRICULTURE UNIVERSITY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Hyderabad",
+
+               "adress" :"Sindh Agriculture Univeristy, Tandojam Hyderabad, Sindh Pakistan Postal Code: 70060",
+
+               "phone" : "+ 92-22-2765870",
+
+               "Email": "  info@sau.edu.pk  ", "Fax": " 92-22-2765300 ", "URL": " http://www.sau.edu.pk"
+
+            },
+
+            {
+
+               "name" : "SINDH INSTITUTE OF MANAGEMENT & TECHNOLOGY",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Karachi",
+
+               "adress" :"ST-25, BLOCK 14, GULISTAN-E-JOHAR, KARACHI",
+
+               "phone" :"021 111-746-746",
+
+               "Email": "  info@simt.edu.pk  ", "Fax": " ", "URL": " http://www.simat.edu.pk "
+
+            },
+
+            {
+
+               "name" : "SINDH INSTITUTE OF MEDICAL SCIENCES",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Karachi",
+
+               "adress" :"Civil Hospital Karachi 74200, Pakistan",
+
+               "phone" :" (92-21) 99215752 & 99215718",
+
+               "Email": "  info@siut.org  ", "Fax": "  (92-21) 99215469 ,  ", "URL": " http://www.siut.org "
+
+            },
+
+            {
+
+               "name" : "SINDH MADRESATUL ISLAM UNIVERSITY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Karachi",
+
+               "adress" :"Aiwan-e-Tijarat Road,  Karachi-74000, Pakistan.",
+
+               "phone" : "+92-21-99211274, +92-21-992112",
+
+               "Email": "  info@smiu.edu.pk  ", "Fax": " +92 21 99217504 ", "URL": " http://www.smiu.edu.pk "
+
+            },
+
+            {
+
+               "name" : "SIR SYED UNIVERSITY OF ENGINEERING & TECHNOLOGY",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Karachi",
+
+               "adress" :"Main University Road,  Karachi 75300, Pakistan",
+
+               "phone" : "+92 21 3498-8000",
+
+               "Email": "  info@ssuet.edu.pk  ", "Fax": " +92 21 3498238  ", "URL": " http://www.ssuet.edu.pk "
+
+            },
+
+            {
+
+               "name" : "SUKKUR INSTITUTE OF BUSINESS ADMINISTRATION",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Sukkur",
+
+               "adress" :"Main Campus, Airport Road, Sukkur ",
+
+               "phone" :"071-5644000-05",
+
+               "Email": "  shoukat.abbasi@iba-suk.edu.pk  ", "Fax": " 92-71-5804419 ", "URL": " http://www.iba-suk.edu.pk "
+
+            },
+
+            {
+
+               "name" : "TEXTILE INSTITUTE OF PAKISTAN",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Karachi",
+
+               "adress" :"203, Aamir Trade Centre Plot No. 233/1-A, Block 2, PECHS, Shara-e-Quaideen, Karachi. Pakistan.",
+
+               "phone" :"(92-21) 34549734 / 34549870",
+
+               "Email": "  info@tip.edu.pk  ", "Fax": " (92-21) 34533525 ", "URL": " http://tip.edu.pk/"
+
+            },
+
+            {
+
+               "name" : "THE SUPERIOR COLLEGE",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Lahore",
+
+               "adress" :"Main Raiwind Road, Lahore",
+
+               "phone" :"042-111-00-00-78 , 042-3810-42",
+
+               "Email": "  info@superior.edu.pk  ", "Fax": " ", "URL": " http://www.superior.edu.pk "
+
+            },
+
+            {
+
+               "name" : "THE UNIVERSITY OF FAISALABAD",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Faisalabad",
+
+               "adress" :"Sargodha Road, University Town, Faisalabad ",
+
+               "phone" : "+92 041-8868326-30",
+
+               "Email": "  info@tuf.edu.pk  ", "Fax": " +92 041 8868220 ", "URL": " http://www.tuf.edu.pk "
+
+            },
+
+            {
+
+               "name" : "THE WOMEN UNIVERSITY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Multan",
+
+               "adress" :"The Women University Multan Address: Kutchery Campus, L.M.Q. Road, Multan",
+
+               "phone" :"061-9200811",
+
+               "Email": "  info@wum.edu.pk  ", "Fax": " 061-4500950 ", "URL": " http://www.wum.edu.pk "
+
+            },
+
+            {
+
+               "name" : "UNIVERSITY OF AGRICULTURE",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Faisalabad",
+
+               "adress" :"University of Agriculture University Main Rd، Faisalabad, Pakistan. ",
+
+               "phone" : "+92 41 9200161-70",
+
+               "Email": "  contact_us@uaf.edu.pk  ", "Fax": "  +92 41 9200764 ", "URL": " http://www.uaf.edu.pk "
+
+            },
+
+            {
+
+               "name" : "UNIVERSITY OF AZAD JAMMU & KASHMIR",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Muzaffarabad",
+
+               "adress" :"University of Azad Jammu & Kashmir, Administration Block, Challa Campus Muzaffarabad, Azad Kashmir",
+
+               "phone" : "+92-5822-960466-470",
+
+               "Email": "  info@ajku.edu.pk  ", "Fax": " ", "URL": " http://www.ajku.edu.pk "
+
+            },
+
+            {
+
+               "name" : "UNIVERSITY OF BALOCHISTAN",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Quetta",
+
+               "adress" :"University of Balochistan, Sariab Road Quetta.",
+
+               "phone" :" +92-81-9211124",
+
+               "Email": "  registrar@um.uob.edu.pk  ", "Fax": " 081-9211-277 ", "URL": " http://www.uob.edu.pk "
+
+            },
+
+            {
+
+               "name" : "UNIVERSITY OF CENTRAL PUNJAB",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Lahore",
+
+               "adress" :"Khayaban-e-Jinnah Road, Johar Town, Lahore. ",
+
+               "phone" : "+92-42-35954890, +92-42-358800",
+
+               "Email": "  info@ucp.edu.pk  ", "Fax": " +92-42-35954892 ", "URL": " http://www.ucp.edu.pk "
+
+            },
+
+            {
+
+               "name" : "UNIVERSITY OF EDUCATION",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Lahore",
+
+               "adress" :"College Road, Township, Lahore. ",
+
+               "phone" : "+92-42-99262223-4 ",
+
+               "Email": "  registrar@ue.edu.pk  ", "Fax": " ", "URL": " http://www.ue.edu.pk "
+
+            },
+
+            {
+
+               "name" : "UNIVERSITY OF ENGINEERING & TECHNOLOGY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Peshawar",
+
+               "adress" :"University of Engineering & Technology, Peshawar, Pakistan ",
+
+               "phone" :"(+92-91)9216796-8",
+
+               "Email": "  registrar@uetpeshawar.edu.pk  ", "Fax": " (+92-91) 9216663 ", "URL": " http://www.uetpeshawar.edu.pk "
+
+            },
+
+            {
+
+               "name" : "UNIVERSITY OF ENGINEERING & TECHNOLOGY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Lahore",
+
+               "adress" :"UNIVERSITY OF ENGINEERING & TECHNOLOGY, G.T. Rd, Lahore 54890, Pakistan",
+
+               "phone" : "+92-42-99250201, +92-42-990292",
+
+               "Email": "  registrar@uet.edu.pk  ", "Fax": " ", "URL": " http://www.uet.edu.pk "
+
+            },
+
+            {
+
+               "name" : "UNIVERSITY OF ENGINEERING & TECHNOLOGY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Taxila",
+
+               "adress" :"University of Engg. & Technology (UET) Taxila. ",
+
+               "phone" : "+92 51-9047-400",
+
+               "Email": "  nfo@uettaxila.edu.pk  ", "Fax": " +92 51-9047-420 ", "URL": " http://www.uettaxila.edu.pk "
+
+            },
+
+            {
+
+               "name" : "UNIVERSITY OF FATA",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Kohat",
+
+               "adress" :"Govt Degree College Darra Adam Khel Akhurwal F.R Kohat  N-55, Pakistan. ",
+
+               "phone" : "+92-91-9218182, +92-91-9216427",
+
+               "Email": "  info@fu.edu.pk  ", "Fax": " ", "URL": " http://www.fu.edu.pk/"
+
+            },
+
+            {
+
+               "name" : "UNIVERSITY OF GUJRAT",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Gujrat",
+
+               "adress" :"University of Gujrat Hafiz Hayat Campus Jalalpur Road Gujrat, Pakistan.",
+
+               "phone" : "+92 (53) 3643112",
+
+               "Email": "  info@uog.edu.pk  ", "Fax": " ", "URL": " http://www.uog.edu.pk "
+
+            },
+
+            {
+
+               "name" : "UNIVERSITY OF HEALTH SCIENCES",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Lahore",
+
+               "adress" :"University of Health Sciences, Khayaban-e-Jamia Punjab, Lahore-54600",
+
+               "phone" : "+92-42-99231304-09, +92-42-111",
+
+               "Email": "  info@uhs.edu.pk  ", "Fax": " 042-9230870 ", "URL": " http://www.uhs.edu.pk "
+
+            },
+
+            {
+
+               "name" : "UNIVERSITY OF KARACHI",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Karachi",
+
+               "adress" :"University of Karachi Main University Road  Karachi - 75270  Sindh, Pakistan",
+
+               "phone" :" 92.21.99261300-07 ",
+
+               "Email": "  info@uok.edu.pk  ", "Fax": " 92.21.99261330 ", "URL": " http://www.uok.edu.pk "
+
+            },
+
+            {
+
+               "name" : "UNIVERSITY OF LAHORE",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Lahore",
+
+               "adress" :"UNIVERSITY OF LAHORE,1-K.M, Raiwind Road, Lahore. ",
+
+               "phone" : "+92 42 111-865-865",
+
+               "Email": "  info@uol.edu.pk  ", "Fax": " ", "URL": " http://www.uol.edu.pk "
+
+            },
+
+            {
+
+               "name" : "UNIVERSITY OF MANAGEMENT & TECHNOLOGY",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Lahore",
+
+               "adress" :"University of Management and Technology , C-II Johar Town Lahore ",
+
+               "phone" : "+92 42 35212801-10",
+
+               "Email": "  admissions@umt.edu.pk  ", "Fax": " +92 42 35184789 ", "URL": " http://www.umt.edu.pk "
+
+            },
+
+            {
+
+               "name" : "UNIVERSITY OF PESHAWAR",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Peshawar",
+
+               "adress" :"Old Jamrud Road, Peshawar. ",
+
+               "phone" : "+92-91-9216701",
+
+               "Email": "  registrar@uop.edu.pk  ", "Fax": " +92-91-9216736 ", "URL": " http://www.uop.edu.pk/"
+
+            },
+
+            {
+
+               "name" : "UNIVERSITY OF SARGODHA",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Sargodha",
+
+               "adress" :"University of Sargodha, University Road Sargodha 40100 Punjab,Pakistan",
+
+               "phone" : "+92-48-9230811-15 ",
+
+               "Email": "  info@uos.edu.pk  ", "Fax": " ", "URL": " http://www.uos.edu.pk "
+
+            },
+
+            {
+
+               "name" : "UNIVERSITY OF SCIENCE & TECHNOLOGY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Bunnu",
+
+               "adress" :" University of Science & Technology, Bannu, Khyber Pakhtunkhawa (KPK), (Pakistan)",
+
+               "phone" : "+92-928-633817-18",
+
+               "Email": "  registrar@ustb.edu.pk  ", "Fax": " +92-928-633821 ", "URL": " http://www.ustb.edu.pk "
+
+            },
+
+            {
+
+               "name" : "UNIVERSITY OF SINDH",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Jamshoro",
+
+               "adress" :"Allama I.I.Kazi Campus, University of Sindh, Jamshoro-76080, Sindh, Pakistan.",
+
+               "phone" : "+92-22-9213-181-90",
+
+               "Email": "  info@usindh.edu.pk  ", "Fax": " +92-22-9213-246 ", "URL": " http://www.usindh.edu.pk "
+
+            },
+
+            {
+
+               "name" : "UNIVERSITY OF SOUTH ASIA",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Lahore",
+
+               "adress" :"47-Tufail Road, Lahore Cantt. ",
+
+               "phone" : "+92-42-36672943, +92-42-366 50",
+
+               "Email": "  help@usa.edu.pk  ", "Fax": " ", "URL": " +92-42-36672943, +92-42-366 50983"
+
+            },
+
+            {
+
+               "name" : "UNIVERSITY OF SWABI",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Swabi",
+
+               "adress" :"University of Swabi, Khyber Pakhtunkhwa",
+
+               "phone" : "+92-938-490238 ",
+
+               "Email": "  adminofficer@uoswabi.edu.pk  ", "Fax": " 0938490238 ", "URL": " http://www.uoswabi.edu.pk "
+
+            },
+
+            {
+
+               "name" : "UNIVERSITY OF SWAT",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Swat",
+
+               "adress" :"G.T Road, Odigram, Swat, Khyber Pakhtunkhwa. ",
+
+               "phone" : "+92-946-924 00060946",
+
+               "Email": "  registrar@uswat.edu.pk  ", "Fax": " ", "URL": " http://www.uswat.edu.pk/ "
+
+            },
+
+            {
+
+               "name" : "UNIVERSITY OF VETERINARY & ANIMAL SCIENCES",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Lahore",
+
+               "adress" :"University of Veterinary and Animal Sciences - UVAS Syed Abdul Qadir Jillani (Out Fall) Road, Lahore - Pakistan",
+
+               "phone" :"92-42-99211374, 99211449",
+
+               "Email": "  helpline@uvas.edu.pk  ", "Fax": " 92-42-9211461 ", "URL": " http://www.uvas.edu.pk "
+
+            },
+
+            {
+
+               "name" : "UNIVERSITY OF WAH",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Wah Cantt",
+
+               "adress" :"Quaid Avenue, The Mall. Wah Cantt. ",
+
+               "phone" :"051-9157000, 051-451425256-7",
+
+               "Email": "  info@uow.edu.pk  ", "Fax": " 051-9314311 ", "URL": " http://www.uow.edu.pk/"
+
+            },
+
+            {
+
+               "name" : "UNIVERSITY OF THE PUNJAB",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Lahore",
+
+               "adress" :"P.O. Box No. 54590. Lahore, Pakistan.",
+
+               "phone" : "+92-42-99231098-9, +92-42-3584",
+
+               "Email": "  registrar@pu.edu.pk  ", "Fax": " 92-55-9201223 ", "URL": " http://www.pu.edu.pk "
+
+            },
+
+            {
+
+               "name" : "VIRTUAL UNIVERSITY OF PAKISTAN",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Lahore",
+
+               "adress" :"M.A. Jinnah Campus, Defence Road, Off Raiwind Road, Lahore, Pakistan.",
+
+               "phone" : "+92-42-99203901 ",
+
+               "Email": "  registrar@vu.edu.pk  ", "Fax": " +92-42-99200604 ", "URL": " http://www.vu.edu.pk/"
+
+            },
+
+            {
+
+               "name" : "WOMEN UNIVERSITY MARDAN",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Mardan",
+
+               "adress" :"http://www.wumardan.edu.pk ",
+
+               "phone" :"(0937) 871 416",
+
+               "Email": "  pstovc@wumardan.edu.pk  ", "Fax": " ", "URL": " http://www.wumardan.edu.pk "
+
+            },
+
+            {
+
+               "name" : "WOMEN UNIVERSITY, SWABI",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Swabi",
+
+               "adress" :"WOMEN UNIVERSITY, SWABI",
+
+               "phone" : "+92 0938-224222",
+
+               "Email": "  info@wus.edu.pk  ", "Fax": " ", "URL": " http://www.wus.edu.pk/"
+
+            },
+
+            {
+
+               "name" : "ZIA-UD-DIN UNIVERSITY",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Karachi",
+
+               "adress" :"4/B, Shahra-e-Ghalib, Block 6, Clifton, Karachi 75600. ",
+
+               "phone" :"(9221) 35862937-9",
+
+               "Email": "  info@zu.edu.pk  ", "Fax": " (9221) 35862940 ", "URL": " ZIA-UD-DIN UNIVERSITY"
+
+            },
+
+            {
+
+               "name" : "LAHORE SCHOOL OF ECONOMICS  ",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Lahore",
+
+               "adress" :"Intersection Main Boulevard Phase VI DHA, Burki 53200, Lahore. ",
+
+               "phone" : "+ 92 42 36560675",
+
+               "Email": "  qaisar@lahoreschool.edu.pk  ", "Fax": " + 92 42 36560905 ", "URL": " http://www.lahoreschoolofeconomics.edu.pk "
+
+            },
+
+            {
+
+               "name" : "LASBELA UNIVERSITY OF AGRICULTURE, WATER & MARINE SCIENCES",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Lasbela",
+
+               "adress" :"Lasbela University of Agriculture, Water and Marine Sciences, Uthal, District Lasbela ",
+
+               "phone" :"0853-610846 ",
+
+               "Email": "  pvc@luawms.edu.pk  ", "Fax": " 0853-610294 ", "URL": " http://www.luawms.edu.pk/"
+
+            },
+
+            {
+
+               "name" : "UNIVERSITY OF TURBAT",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Jazan",
+
+               "adress" :"Overseas Colony, Airport Road, Turbat Balochistan. ",
+
+               "phone" : "+92-85-414498 ",
+
+               "Email": "  registrar@uot.edu.pk  ", "Fax": " http://www.uot.edu.p ", "URL": " http://www.uot.edu.pk "
+
+            },
+
+            {
+
+               "name" : "Aga Khan University",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Karachi",
+
+               "adress" :"First Floor, Juma Building  The Aga Khan University  P.O. Box 3500, Stadium Road,  Karachi 74800, Pakistan",
+
+               "phone" : "+92 21 3493 0051",
+
+               "Email": "  mc.ea@aku.edu  ", "Fax": " +92 21 3493 4294, 34 ", "URL": " https://www.aku.edu/"
+
+            },
+
+            {
+
+               "name" : "Al-Khair University (Banned by HEC)",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Muzzaffarabad",
+
+               "adress" :"University Road, Bhimber (AJK)",
+
+               "phone" :"05828-454085",
+
+               "Email": "  info@alkhair.edu.pk  ", "Fax": " ", "URL": " http://alkhair.edu.pk"
+
+            },
+
+            {
+
+               "name" : "Barret Hodgson University",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Karachi",
+
+               "adress" :"The Salim Habib Campus, NC-24, Deh Dih, Korangi Creek, Karachi ",
+
+               "phone" :"92 21 35122931-35",
+
+               "Email": "  info@bhu.edu.pk  ", "Fax": " ", "URL": " http://www.bhu.edu.pk/"
+
+            },
+
+            {
+
+               "name" : "Fatima Jinnah Women University",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Rawalpindi",
+
+               "adress" :"The Mall, Old Presidency, Rawalpindi ",
+
+               "phone" : "+92-51-9292901,+92-51-9292902",
+
+               "Email": "  bhs@fjwu.edu.pk  ", "Fax": " +92 (0)51 9292903 ", "URL": " http://www.fjwu.edu.pk "
+
+            },
+
+            {
+
+               "name" : "Gambat Institute of Medical Sciences",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Khairpur",
+
+               "adress" :"Gambat Institute of Medical Sciences, Gambat Station Road, Pakistan. ",
+
+               "phone" :"92-243-640160 ",
+
+               "Email": "  mailus@gims.edu.pk  ", "Fax": " ", "URL": " http://www.gims.edu.pk/"
+
+            },
+
+            {
+
+               "name" : "Global Institute, Lahore [HEC-NOC SUSPENDED] ",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Lahore",
+
+               "adress" :"3-Aurangzeb Block, New Garden Town, Lahore. ",
+
+               "phone" : "+92-42-35857924-6 ",
+
+               "Email": "  info@global.edu.pk  ", "Fax": " +92-42-5717447 ", "URL": " http://global.edu.pk/"
+
+            },
+
+            {
+
+               "name" : "Imperial College of Business Studies ",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Lahore",
+
+               "adress" :"Canal Bank Road Near Bahria Chowk, Lahore",
+
+               "phone" : "+92-42-35978525-32 ",
+
+               "Email": "  admissions@imperial.edu.pk  ", "Fax": " ", "URL": " http://imperial.edu.pk/"
+
+            },
+
+            {
+
+               "name" : "Mohi-ud-Din Islamic University",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Muzzaffarabad",
+
+               "adress" :"Mohi-ud-Din Islamic University, Nerian Sharif AJ&K. ",
+
+               "phone" :"05825-450282-3 ",
+
+               "Email": "  info@miu.edu.pk  ", "Fax": " +92-5827-468777 ", "URL": " http://miu.edu.pk/"
+
+            },
+
+            {
+
+               "name" : "Pakistan Military Academy",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Abbottabad",
+
+               "adress" :"Kakul Road, Abbottabad Pakistan ",
+
+               "phone" :"92 (0)992 363643",
+
+               "Email": "  missing@pma.edu.pk  ", "Fax": " ", "URL": " http://www.pma.edu.pk "
+
+            },
+
+            {
+
+               "name" : "PAKISTAN NAVAL ACADEMY",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Karachi",
+
+               "adress" :"Pakistan Naval Academy  Karachi, Pakistan ",
+
+               "phone" :"0347 1891949",
+
+               "Email": "email@paknavy.gov.pk"  , "Fax": " ", "URL": " http://www.paknavy.gov.pk "
+
+            },
+
+            {
+
+               "name" : "Preston Institute of Management, Science & Technology (Banned for admissions w.e.f 10-06-2017)",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Karachi",
+
+               "adress" :"177/2, IEP Building, Karachi, Pakistan",
+
+               "phone" :"0921-32789888-90",
+
+               "Email": "  admissions@pimsat-khi.edu.pk  ", "Fax": " ", "URL": " https://pimsat-khi.edu.pk"
+
+            },
+
+            {
+
+               "name" : "Shuhada-e-Army Public School University of Technology, Nowshera",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Nowshera",
+
+               "adress" :"Ex-Adamjee Paper and Board Mills, Amangarh, Nowshera.",
+
+               "phone" :"0923-560301 ",
+
+               "Email": "  missing@uotnowshera.edu.pk  ", "Fax": " ", "URL": " http://uotnowshera.edu.pk/"
+
+            },
+
+            {
+
+               "name" : "University of Kotli Azad Jammu and Kashmir",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Muzzaffarabad",
+
+               "adress" :"Kotli, Azad Kashmir, ",
+
+               "phone" : "+92-5826-960042",
+
+               "Email": "  vice.chancellor@uokajk.edu.pk  ", "Fax": " (+92) 5826 960049 ", "URL": " http://www.uokajk.edu.pk "
+
+            },
+
+            {
+
+               "name" : "University of Baltistan, Skardu",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Skardu",
+
+               "adress" :"University of Baltistan, Skardu",
+
+               "phone" :"05815-960070 ",
+
+               "Email": "  info@kiu.edu.pk  ", "Fax": " 05815-960256  ", "URL": " https://www.kiu.edu.pk/page/skardu-campus"
+
+            },
+
+            {
+
+               "name" : "University of Loralai",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Lasbela",
+
+               "adress" :"College Road, Loralai at Loralai Zhob Division, Balochistan.",
+
+               "phone" :"(0824) 410782",
+
+               "Email": "  info@uoli.edu.pk  ", "Fax": " ", "URL": " http://www.uoli.edu.pk/"
+
+            },
+
+            {
+
+               "name" : "University of Malakand",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Mardan",
+
+               "adress" :"Chakdara, Dir, Lower, Malakand Khyber Pakhtunkhwa ",
+
+               "phone" :"0945-763023 Ext 3011",
+
+               "Email": "  missinginfo@uom.edu.pk  ", "Fax": " 0945-761624 ", "URL": " http://www.uom.edu.pk "
+
+            },
+
+            {
+
+               "name" : "University of Poonch",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Rawalakot",
+
+               "adress" :"B-65, Housing Scheme, Rawalakot (Azad Kashmir) ",
+
+               "phone" : "+92 5824-960053 ",
+
+               "Email": "  registrar@upr.edu.pk  ", "Fax": " 92 5824-960054 ", "URL": " http://www.upr.edu.pk/"
+
+            },
+
+            {
+
+               "name" : "Women University of Azad Jammu & Kashmir",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Mirpur (AK)",
+
+               "adress" :"Women University of Azad Jammu & Kashmir, Bagh ",
+
+               "phone" :"058-23-960044",
+
+               "Email": "  info@wuajk.edu.pk  ", "Fax": " ", "URL": " http://www.wuajk.edu.pk/"
+
+            },
+
+            {
+
+               "name" : "Shaheed Benazir Bhutto University",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Amilcar",
+
+               "adress" :"Sheringal, Upper Dir, Khyber Pakhtunkhwa",
+
+               "phone" : "+92-944-885529",
+
+               "Email": "  registrar@sbbu.edu.pk  ", "Fax": " +92-944-885805 ", "URL": " http://www.sbbu.edu.pk"
+
+            },
+
+            {
+
+               "name" : "Khushal Khan Khattak University",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"testcity",
+
+               "adress" :"Opposite Tableghi markaz, Karak. ",
+
+               "phone" : "+92-927- 291018, 291026",
+
+               "Email": "  vc@kkkuk.edu.pk  ", "Fax": "  +92-927-291035 ", "URL": " http://www.kkkuk.edu.pk/"
+
+            },
+
+            {
+
+               "name" : "Benazir Bhutto Shaheed University of Technology & Skill Development, Khairpur Mirs",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Khairpur",
+
+               "adress" :"Station Road Near Mil Colony Khairpur MiRS Khairpur  Khairpur Mirs ",
+
+               "phone" :"0243-9280168",
+
+               "Email": "  missing@bbsut.edu.pk  ", "Fax": " missing ", "URL": " https://www.underprocess.pk/"
+
+            },
+
+            {
+
+               "name" : "Bacha Khan University",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"testcity",
+
+               "adress" :"Bacha Khan University, Palosa, Charsadda. ",
+
+               "phone" :"091-6540116",
+
+               "Email": "  webmaster@bkuc.edu.pk  ", "Fax": " ", "URL": " http://www.bkuc.edu.pk/"
+
+            },
+
+            {
+
+               "name" : "National University of Technology (NUTECH)",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Islamabad",
+
+               "adress" :"National University of Technology (NUTECH), IJP Road, Sector I-12, Islamabad. ",
+
+               "phone" : "+92-51-5476768 ",
+
+               "Email": "  info@nutech.edu.pk  ", "Fax": " ", "URL": " https://nutech.edu.pk/"
+
+            },
+
+            {
+
+               "name" : "ShifaTameer-E-Millat University",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Islamabad",
+
+               "adress" :"Shifa Tameer-e-Millat University Pitras Bukhari Road, H-8/4 Islamabad",
+
+               "phone" : "+92-51-8464214",
+
+               "Email": "  info@stmu.edu.pk  ", "Fax": " ", "URL": " https://stmu.edu.pk/"
+
+            },
+
+            {
+
+               "name" : "Cholistan University of Veterinary and Animal Sciences, Bahawalpur",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Bahawalpur",
+
+               "adress" :"Cholistan University of Veterinary & Animal Sciences, Near DHA, Bahawalpur, Punjab-Pakistan",
+
+               "phone" : "+92-062- 9255716",
+
+               "Email": "  registrar@cuvas.edu.pk  ", "Fax": " ", "URL": " http://www.cuvas.edu.pk"
+
+            },
+
+            {
+
+               "name" : "Faisalabad Medical University, Faisalabad",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Faisalabad",
+
+               "adress" :"Sargodha Road, Faisalabad-Punjab Pakistan ",
+
+               "phone" : "+92-41-9210080 ",
+
+               "Email": "  vcfmuf@gmail.com  ", "Fax": " ", "URL": " http://www.pmc.edu.pk/"
+
+            },
+
+            {
+
+               "name" : "Institute for Art and Culture",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Lahore",
+
+               "adress" :"Mian Riwand Road, Lahore Pakistan ",
+
+               "phone" : "+92-42-32590040-7",
+
+               "Email": "  info@iac.edu.pk  ", "Fax": " ", "URL": " https://iac.edu.pk/"
+
+            },
+
+            {
+
+               "name" : "Nishtar Medical University Multan",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Multan",
+
+               "adress" :"Nishtar Medical University (NMU), Nishtar Road, Gillani Colony, Multan Punjab, Pakistan",
+
+               "phone" : "+92-61-9200231-35",
+
+               "Email": "  nishtarmed@gmail.com  ", "Fax": " ", "URL": " http://www.nmch.edu.pk"
+
+            },
+
+            {
+
+               "name" : "Punjab Tianjin University of Technology, Lahore",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Lahore",
+
+               "adress" :"Punjab Tianjin University of Technology (PTUT),  Near Green Town Police station, Township,  Lahore, Pakistan ",
+
+               "phone" : "+92-42-9933 2438",
+
+               "Email": "  info@ptut.edu.pk  ", "Fax": " ", "URL": " http://ptut.edu.pk/"
+
+            },
+
+            {
+
+               "name" : "Emaan Institute of Management & Sciences, Karachi",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Karachi",
+
+               "adress" :"E-136, Abul Hassan Asphani Road, Block-07 Gulshan-e-Iqbal, Karachi, 74200, Pakistan",
+
+               "phone" : "+92-21-34999200-2",
+
+               "Email": "  info@emaan.edu.pk  ", "Fax": " ", "URL": " http://www.emaan.edu.pk"
+
+            },
+
+            {
+
+               "name" : "GOVERNMENT COLLEGE UNIVERSITY, HYDERABAD",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Hyderabad",
+
+               "adress" :"Opposite Pinyari Police Station, Kali Mori, Hyderabad Sindh, Pakistan",
+
+               "phone" : "+92-22-2111877 ",
+
+               "Email": "  info@gcuh.edu.pk  ", "Fax": " ", "URL": " http://www.gcuh.edu.pk"
+
+            },
+
+            {
+
+               "name" : "ILMA University ",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Karachi",
+
+               "adress" :"Main Ibrahim Hydri Road, Korangi Creek, Karachi. ",
+
+               "phone" : "+92-21-35120462",
+
+               "Email": "  info@ilmauniversity.edu.pk  ", "Fax": " ", "URL": " http://www.ibt.edu.pk"
+
+            },
+
+            {
+
+               "name" : "Sohail University",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Karachi",
+
+               "adress" :"Sohail University, 22-23 Shaheed-e-Millat Road, Karachi-Sindh ",
+
+               "phone" : "+92-21-34931886-9",
+
+               "Email": "  baqarnawab@hotmail.com  ", "Fax": " ", "URL": " http://www.sohailuniversity.edu.pk"
+
+            },
+
+            {
+
+               "name" : "Abottabad University of Science And Technology (AUST)",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Abbottabad",
+
+               "adress" :"Captain Akaash Rabbani Shaheed Road, Tehsil Havelian, District Abbottabad, Khyber Pakhtunkhwa",
+
+               "phone" : "+92-992-402117",
+
+               "Email": "  info@aust.edu.pk  ", "Fax": " ", "URL": " http://aust.edu.pk"
+
+            },
+
+            {
+
+               "name" : "The University of Agriculture, Peshawar",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Peshawar",
+
+               "adress" :"The University of Agriculture, Peshawar Pakistan ",
+
+               "phone" : "+92-91-9221263",
+
+               "Email": "  registrar@aup.edu.pk  ", "Fax": " +92-91-9221262  ", "URL": " http://www.aup.edu.pk/"
+
+            },
+
+            {
+
+               "name" : "University of Engineering & Technology (UET), Mardan",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Mardan",
+
+               "adress" :"University of Engineering & Technology (UET), Mardan ",
+
+               "phone" : "+92-937-9230295 ",
+
+               "Email": "  registrar@uetmardan.edu.pk  ", "Fax": " ", "URL": " http://www.uetmardan.edu.pk"
+
+            },
+
+            {
+
+               "name" : "University of Science & Technology",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Bunnu",
+
+               "adress" :"Main Campus Township, Bannu. ",
+
+               "phone" : "+92-928-633823",
+
+               "Email": "  registrar@ustb.edu.pk  ", "Fax": " ", "URL": " https://www.ustb.edu.pk/"
+
+            },
+
+            {
+
+               "name" : "Brains Institute Peshawar",
+
+               "status" : "Private" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Peshawar",
+
+               "adress" :"Phase III Chowk, Jamrud Road, Peshawar ",
+
+               "phone" : "+92-91-5611637",
+
+               "Email": "  info@brains.edu.pk  ", "Fax": " ", "URL": " http://brains.edu.pk"
+
+            },
+
+            {
+
+               "name" : "The Bolan University of Medical and Health Sciences, Quetta",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" : "Quetta",
+
+               "adress" :"The Bolan University of Medical & Health Sciences.  Brewery Road,Quetta Balochistan, Pakistan ",
+
+               "phone" : "+92-81-9213070",
+
+               "Email": "  registrar@bumhs.edu.pk  ", "Fax": " ", "URL": " http://www.bumhs.edu.pk/"
+
+            },
+
+            {
+
+               "name" : "University of Sufism and Modern Sciences, Bhitshah Sindh",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Bhit Shah",
+
+               "adress" :"Mian Campus; Bhit Shah ",
+
+               "phone" : "+92-22-2762415",
+
+               "Email": "  dep.registrar@usms.edu.pk  ", "Fax": " ", "URL": " http://usms.edu.pk/"
+
+            },
+
+            {
+
+               "name" : "Shaheed Benazir Bhutto University",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Upper Dir",
+
+               "adress" :"Sheringal, Upper Dir, Khyber Pakhtunkhwa",
+
+               "phone" : "+92-944-885527",
+
+               "Email": "  registrar@sbbu.edu.pk  ", "Fax": " +92-944 - 885805 ", "URL": " https://sbbu.edu.pk/"
+
+            },
+
+            {
+
+               "name" : "The University of Lakki Marwat",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Lakki Marwat",
+
+               "adress" :"The University of Lakki Marwat GPGC (Boys), District Lakki Marwat Khyber Pakhtunkhwa ",
+
+               "phone" : "+92-969-511819 ",
+
+               "Email": "  ulm_2017@outlook.com  ", "Fax": " ", "URL": " http://www.ulm.edu.pk"
+
+            },
+
+            {
+
+               "name" : "University of Buner",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Buner",
+
+               "adress" :"University of Buner Sowari, Buner, Khyber Pakhtunkhwa ",
+
+               "phone" : "+92-939-555211",
+
+               "Email": "  registrar@ubuner.edu.pk  ", "Fax": " ", "URL": " https://www.ubuner.edu.pk/"
+
+            },
+
+            {
+
+               "name" : "University of Chitral",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :" Chitral",
+
+               "adress" :"University of Chitral Seen, Lasht Chitral, Khyber Pakhtunkhwa",
+
+               "phone" : "+92-943-412401",
+
+               "Email": "  registrar@uoch.edu.pk  ", "Fax": " ", "URL": " http://www.uoch.edu.pk"
+
+            },
+
+            {
+
+               "name" : "University of Haripur",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Haripur ",
+
+               "adress" :"Hattar Road, Near Swat Chowk, Tehsil & District Haripur. ",
+
+               "phone" : "+92-995-615393 ",
+
+               "Email": "  registrar@uoh.edu.pk  ", "Fax": " ", "URL": " http://www.uoh.edu.pk/"
+
+            },
+
+            {
+
+               "name" : "Pak-Austria Fachhochschule Institute of Applied Sciences and Technology, Haripur",
+
+               "status" : "Public" ,
+               "admission": "open",
+               "fee" : "150000",
+               "city" :"Haripur ",
+
+               "adress" :"Mang, Haripur-Khyber Pakhtunkhwa Pakistan ",
+
+               "phone" : "+92-995-645112-18",
+
+               "Email": "  info@paf-iast.edu.pk  ", "Fax": " ", "URL": " https://www.paf-iast.edu.pk/"
+
+            }
+
+         ]
+      }
